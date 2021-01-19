@@ -1,0 +1,9 @@
+html{
+    @font-face {
+        font-family: asd;
+        src: url('./fonts/aaa.ttf') format('truetype');
+    }
+    #app{
+        font-family: "asd" !important;
+    }
+}

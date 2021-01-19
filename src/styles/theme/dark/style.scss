@@ -1,0 +1,7 @@
+body.dark {
+    @import './variables';
+    background: #030233;
+    .text-color{
+        color:$--color
+    }
+}
